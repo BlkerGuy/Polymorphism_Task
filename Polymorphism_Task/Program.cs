@@ -39,9 +39,9 @@ namespace Polymorphism_Task
             Drink drink = new Drink();
             Console.WriteLine("-------------------------------------------------------------------");
             var drnks=store.AlcoholPercentLimit();
+            Console.WriteLine("--------------------------------------------------------------------");
 
            
-            }
 
         }
     }
